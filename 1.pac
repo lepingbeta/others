@@ -20,6 +20,7 @@ var domains = {
   "213.so": 1, 
   "21andy.com": 1, 
   "24smile.org": 1, 
+  "apache.org": 1, 
   "2shared.com": 1, 
   "301works.org": 1, 
   "315lz.com": 1, 
