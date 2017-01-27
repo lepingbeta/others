@@ -10,6 +10,7 @@ var domains = {
   "17t17p.com": 1, 
   "1984bbs.com": 1, 
   "1984bbs.org": 1, 
+  "gitbook.com": 1, 
   "1bao.org": 1, 
   "1eew.com": 1, 
   "1pondo.tv": 1, 
