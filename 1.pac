@@ -12,6 +12,7 @@ var domains = {
   "1984bbs.org": 1, 
   "mysql.com": 1, 
   "mvnrepository.com": 1, 
+  "microsoft.com": 1,
   "gitbook.com": 1, 
   "gitbooks.io": 1, 
   "1bao.org": 1, 
