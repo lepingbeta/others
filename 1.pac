@@ -10,6 +10,7 @@ var domains = {
   "17t17p.com": 1, 
   "1984bbs.com": 1, 
   "1984bbs.org": 1, 
+  "bintray.com": 1, 
   "mysql.com": 1, 
   "mvnrepository.com": 1, 
   "microsoft.com": 1,
