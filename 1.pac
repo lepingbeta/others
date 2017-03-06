@@ -16,6 +16,7 @@ var domains = {
   "microsoft.com": 1,
   "gitbook.com": 1, 
   "gitbooks.io": 1, 
+  "spring.io": 1,
   "jquery.org": 1, 
   "jquery.com": 1, 
   "1bao.org": 1, 
