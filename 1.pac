@@ -2408,6 +2408,7 @@ var domains = {
   "woopie.tv": 1, 
   "wordboner.com": 1, 
   "wordpress.com": 1, 
+  "wordpress.org": 1, 
   "wordsandturds.com": 1, 
   "workatruna.com": 1, 
   "worldcat.org": 1, 
