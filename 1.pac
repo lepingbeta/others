@@ -2272,6 +2272,7 @@ var domains = {
   "verizon.net": 1, 
   "verybs.com": 1, 
   "vevo.com": 1, 
+  "eff.org": 1, 
   "videobam.com": 1, 
   "videomo.com": 1, 
   "vidoemo.com": 1, 
