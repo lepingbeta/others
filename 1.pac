@@ -17,6 +17,7 @@ var domains = {
   "microsoft.com": 1,
   "swagger.io": 1,   
   "keenthemes.com": 1,
+  "amazonaws.com": 1,
   "gitbook.com": 1, 
   "gitbooks.io": 1, 
   "spring.io": 1,
