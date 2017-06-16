@@ -23,6 +23,7 @@ var domains = {
   "gitbook.com": 1, 
   "gitbooks.io": 1, 
   "spring.io": 1,
+  "googlevideo.com": 1,
   "jquery.org": 1, 
   "jquery.com": 1, 
   "1bao.org": 1, 
