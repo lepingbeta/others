@@ -1,4 +1,4 @@
-var proxy = "PROXY uat.kinimi.com:2500;";
+var proxy = "PROXY";
 
 var domains = {
   "10musume.com": 1, 
